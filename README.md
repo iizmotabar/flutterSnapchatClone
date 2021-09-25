@@ -1,16 +1,13 @@
-# snapchat_ui
+# Snapchat UI
 
-A new Flutter project.
+![SnapChat UI](https://pasteboard.co/XUsH7IcnFICB.png)
+This project is a part of a Flutter UI Series where I'll be cloning renowned apps and designs from dribble using Flutter.
+## Explaination
 
-## Getting Started
+You can check out the detailed article if you want to deep dive into the code with explanation at Medium.
 
-This project is a starting point for a Flutter application.
+/* - [Flutter UI Series: WhatsApp Clone](https://iizmotabar.medium.com/flutter-ui-series-whatsapp-ui-4451eca699b6) */
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you want to stay up-to-date with such content, You can follow me on social media:
+[Twitter](https://twitter.com/iizmotabar)
+[Medium](https://iizmotabar.medium.com)
